@@ -1,0 +1,1 @@
+# valge-thesis-2024-robotont-power-management
