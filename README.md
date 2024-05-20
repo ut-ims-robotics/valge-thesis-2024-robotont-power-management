@@ -1,4 +1,4 @@
-# Monitoring supply voltage and consumption current and creating firmware for Robotont’s power management system
+# Monitoring supply voltage and current consumption and creating firmware for Robotont’s power management system
 This repository contains files created for my bachelor's thesis. 
 * In `robotont-electronics-mainboard` there is electronic schemes for voltage and current measuring.  
 
